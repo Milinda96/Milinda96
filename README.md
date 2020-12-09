@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">A young-man 🤓 software developer from Sri Lanka SL</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Milinda96 alt=Milinda96/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Milinda96&color=blueviolet alt=Milinda96/> </p>
 
 - 🔭 I’m currently working on [school management system](https://github.com/Milinda96/SMS-Admin-Portal)
 
@@ -31,4 +31,4 @@
     <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> 
 </p>
 <p align="center"> 
-<img src=https://github-readme-stats.vercel.app/api?username=Milinda96&show_icons=true alt=Milinda96 /> </p>
+<img src=https://github-readme-stats.vercel.app/api?username=Milinda96&show_icons=true&theme=radical&count_private=true alt=Milinda96 /> </p>
