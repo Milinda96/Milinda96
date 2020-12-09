@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on open source/commercial projects
 
-- 💬 Ask me about **Web Development and Mobile Development(Andorid, Ionic)**
+- 💬 Ask me about **Web Development and Mobile Development(Android, Ionic)**
 
 - 📫 Reach me at **milinda.16@itfac.mrt.ac.lk**
 
