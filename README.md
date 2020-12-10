@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milinda</h1>
 <p align="center">
-<a href=https://stackoverflow.com/users/10485893/milinda target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Milinda96" height="20" width="20" /></a>
-<a href=https://www.linkedin.com/in/milinda-nandasena/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Milinda96" height="20" width="20" /></a>
+    <a href=https://www.linkedin.com/in/milinda-nandasena/ target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white alt="Milinda96"/></a>
+    <a href=https://stackoverflow.com/users/10485893/milinda target="blank"><img align="center" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the badge&logo=stack-overflow&logoColor=white alt="Milinda96"/></a>
 </p>
 
 <h3 align="center">A young-man 🤓 software developer from Sri Lanka SL</h3>
