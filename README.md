@@ -7,7 +7,7 @@
 <h3 align="center">A young-man 🤓 software developer from Sri Lanka SL</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Milinda96&color=blueviolet alt=Milinda96/> </p>
 
-- 🔭 I’m currently working on [school management system](https://github.com/Milinda96/SMS-Admin-Portal)
+- 🔭 I’m currently working on [Driver Drowsiness and Distraction Detection System](https://github.com/Milinda96/driver-drowsiness-and-distractions)
 
 - 👯 I’m looking to collaborate on open source/commercial projects
 
