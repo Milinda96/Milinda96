@@ -37,5 +37,5 @@
 </p>
 <p align="center"> 
 <img src=https://github-readme-stats.vercel.app/api?username=Milinda96&show_icons=true&theme=radical&count_private=true%20alt=Milinda96 /> 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Milinda96&theme=radical alt=Milinda96 /> 
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Milinda96&theme=radical%20alt=Milinda96 /> 
 </p>
