@@ -5,13 +5,12 @@
 </p>
 
 <h3 align="center">A young-man 🤓 software developer from Sri Lanka SL</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Milinda96&color=blueviolet alt=Milinda96/> </p>
 
 - 🔭 I'm currently working as a Senior Software Engineer.
 
 - 👯 I’m looking to collaborate on open source/commercial projects
 
-- 💬 Ask me about **Web Development and Mobile Development(Android, Ionic)**
+- 💬 Ask me about **Web Development, SRE, DevOps**
 
 - 📫 Reach me at **milinda.16@itfac.mrt.ac.lk**
 
