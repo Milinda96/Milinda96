@@ -4,6 +4,10 @@
     <a href=https://stackoverflow.com/users/10485893/milinda target="blank"><img align="center" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt="Milinda96"/></a>
 </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <h3 align="center">A young-man 🤓 software developer from Sri Lanka SL</h3>
 
 - 🔭 I'm currently working as a Senior Software Engineer.
