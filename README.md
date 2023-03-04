@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milinda</h1>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Milinda96&label=Profile%20views&color=0e75b6&style=flat" alt="Milinda96" />
     <a href=https://www.linkedin.com/in/milinda-nandasena/ target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Milinda96"/></a>
     <a href=https://stackoverflow.com/users/10485893/milinda target="blank"><img align="center" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt="Milinda96"/></a>
 </p>
@@ -17,7 +18,7 @@
 - 💬 Ask me about **Web Development, SRE, DevOps**
 
 - 📫 Reach me at **milinda.16@itfac.mrt.ac.lk**
-
+<br/>
 <p align="center">
     <img src=https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg width="80" height="40"/> 
     <img src=https://www.vectorlogo.zone/logos/docker/docker-icon.svg alt=docker width="40" height="40"/> 
