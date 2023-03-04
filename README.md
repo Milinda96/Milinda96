@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Milinda</h1>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Milinda96&label=Profile%20views&color=0e75b6&style=flat" alt="Milinda96" />
     <a href=https://www.linkedin.com/in/milinda-nandasena/ target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Milinda96"/></a>
     <a href=https://stackoverflow.com/users/10485893/milinda target="blank"><img align="center" src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt="Milinda96"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Milinda96&label=Profile%20views&color=0e75b6&style=flat" alt="Milinda96" />
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
